@@ -1,9 +1,13 @@
+
+
+/*TASK-2 Calculator program that performs basic arithmetic
+operations such as addition, subtraction, multiplication, and
+division. Allow the user to input two numbers and choose an
+operation to perform*/
+
+
 #include <iostream>
 
-
-
-
-//designing a calculator
 int main() {
     double num1, num2;
     char operation;
